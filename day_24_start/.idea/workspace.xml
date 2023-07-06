@@ -1,0 +1,111 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="47563ca9-487d-4b53-83ce-136b8fec98d6" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../day_16_start/.idea/day-16-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_17_start/.idea/day-17-start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_20_official/.idea/day20official.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_21_start/.idea/day_21_start.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_24_lesson/.idea/day_24_lesson.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_24_lesson/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_24_lesson/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_24_lesson/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_24_lesson/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_24_lesson/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_24_lesson/my_file.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day_24_lesson_breakdown/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day_24_lesson_breakdown/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day_24_lesson_breakdown/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../pythonProject/day_24_lesson_breakdown/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/.idea/day-16-start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/day-16.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-16-start/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/.idea/day-17-start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/day-17.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day-17-start/main.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day20official/.idea/day20official.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/.idea/.name" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/.idea/day_21_start.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/.idea/inspectionProfiles/profiles_settings.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/ball.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/day_21_start.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/paddle.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day21start/scoreboard.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_23_start/main.py" beforeDir="false" afterPath="$PROJECT_DIR$/../day_23_start/main.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="2S9bCrEwVwFC5EZvb721T1bSsB5" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RunManager">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="day_24_start" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="47563ca9-487d-4b53-83ce-136b8fec98d6" name="Changes" comment="" />
+      <created>1688561621026</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1688561621026</updated>
+    </task>
+    <servers />
+  </component>
+</project>
