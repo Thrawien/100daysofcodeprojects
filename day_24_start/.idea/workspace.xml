@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="47563ca9-487d-4b53-83ce-136b8fec98d6" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../day_25_start/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../day_26_start/main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../day_24_lesson/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../day_24_lesson/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -20,13 +21,13 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/mad_a/PycharmProjects/pythonProject/100daysofcode/day_25_start/main.py"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/mad_a/PycharmProjects/pythonProject/100daysofcode/day_25_start/main.py&quot;
   }
-}]]></component>
+}</component>
   <component name="RunManager">
     <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
       <module name="day_24_start" />
