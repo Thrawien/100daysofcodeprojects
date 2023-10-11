@@ -68,4 +68,6 @@ unknown_button.grid(column=0, row=1)
 
 next_card()
 
+
+
 window.mainloop()
